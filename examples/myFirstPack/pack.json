@@ -1,0 +1,6 @@
+{
+    "id": "myFirstPack",
+    "name": "My First Pack",
+    "version": "1.0",
+    "entryPoint": "Main.mjs"
+}

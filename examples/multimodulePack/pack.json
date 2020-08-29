@@ -1,0 +1,6 @@
+{
+    "id": "multimodule",
+    "name": "Multimodule Scriptpack",
+    "version": "1.0",
+    "entryPoint": "Main.mjs"
+}
